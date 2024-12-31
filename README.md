@@ -15,11 +15,11 @@ This project involves building a real-time chat application using `Node.js`. The
 
 4. **`MVC`**
 
-5. **`Database` - `Postgres` / `MongoDB`**
+5. **`Database` - `Postgres`**
 
 6. **`ORM / ODM` - `Prisma` / `Mongoose`**
 
-7. **`EJS` / `HTML`** (Other tools must be discussed in advance)
+7. **`EJS` / `HTML`** 
 
 8. **`CSS` / `SASS`
 
